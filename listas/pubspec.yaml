@@ -30,6 +30,7 @@ dependencies:
   flutter:
     sdk: flutter
   icofont_flutter: ^1.4.0
+  line_awesome_flutter: ^2.0.0
 
 
   # The following adds the Cupertino Icons font to your application.

@@ -16,7 +16,7 @@ class CiscleAvatarCustom extends StatelessWidget {
           width: 90,
           padding: EdgeInsets.all(4),
           decoration: BoxDecoration(
-            color: Colors.red,
+            gradient: LinearGradient (colors:  [ Colors.pink,  Color.fromARGB(255, 78, 21, 168),  Color.fromARGB(255, 78, 21, 168)] ),
             borderRadius: BorderRadius.circular(100),
           ),
           child: Container(
